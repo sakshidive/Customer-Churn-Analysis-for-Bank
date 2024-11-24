@@ -8,12 +8,11 @@ This project includes focuses on analyzing customer churn in the banking sector 
 - DAX (Data Analysis Expression): For creating Calculated Columns and Metrics
 - Power BI : For designing interactive visuals and dashboard 
 
-## Workflow 
-1. **Data Source**: The dataset was initially provided as a CSV file 
-2. **Data Integration**: Imported the data from CSV file into MySQL to create structured relational database.
-3. **Data Extraction**: Imported the dataset from MySQL to Power BI for designing interactive dashboard.
-4. **Advanced DAX Queries**: Created Calculated columns and Measures.
-5. **Data Visualization**: Designed a dynamic dashboard to analyze key metrics and trends. 
+## Approach
+1. **Data Source**: The dataset was provided as a CSV file including customers data. 
+2. **Data Extraction**: Imported the data from CSV file into Power BI.
+4. **Data Cleaning and Transformation**: Cleaned the extracted data by removing unwanted columns and standardized data formats. 
+5. **Data Visualization**: Designed a interactive dashboard to analyze churn trends.
 
 ## Skills Learned 
 - Data Integration from various sources such as CSV file/Excel, MySQL database etc.
@@ -22,12 +21,6 @@ This project includes focuses on analyzing customer churn in the banking sector 
 - Data Analysis 
 - Data Interpretation
 - Identifying KPI's to support data driven decision making
-
-## Data Source 
-The dataset comprises CSV files containing credit card transaction and customer data:
-- credit_card.csv: Weekly credit card transaction data.
-- customer.csv: Customer details and demographic information.
-- cc_add.csv and cust_add.csv: Updated data files for the subsequent week (Week 53).
   
 ## Insights 
   - Revenue increased by 28.8 % (week 53) compared to last week.
