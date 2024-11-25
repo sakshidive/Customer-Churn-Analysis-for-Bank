@@ -28,7 +28,8 @@ This project includes focuses on analyzing customer churn in the banking sector 
 - Customers aged 51-60 have the highest churn rate at 56.2% followed by those aged 41-50.
 - Customers with low credit scores and low account balance are significantly more likely to churn.
 - Germany has the highest churn rate at 32.4%, making up 40% of the total churned customers.
-- France and Spain have churn rate of 16.7% and 16.2% making up 39.8% and 20.3% of total churned customers. 
+- France and Spain have churn rate of 16.7% and 16.2% making up 39.8% and 20.3% of total churned customers.
+- Customers using Product 1 exhibit the highest churn rate compared to other products.
 - Female customers exhibit a higher churn rate compared to male customers.
 
 ## Skills Learned 
