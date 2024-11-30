@@ -1,7 +1,7 @@
 # Customer-Churn-Analysis-for-Bank
 
 ## Project Overview 
-This project includes focuses on analyzing customer churn in the banking sector using an Power BI dashboard to visualize and understand customer behaviour patterns. The analysis identifies key factors contributing to customer attrition, providing actionable insights so that the bank can develop targeted strategies to improve customer retention and overall satisfaction.
+This project includes focuses on analyzing customer churn in the banking sector using an Power BI dashboard to visualize and understand customer behavior patterns. The analysis identifies key factors contributing to customer attrition, providing actionable insights so that the bank can develop targeted strategies to improve customer retention and overall satisfaction.
 
 ## Tools Used 
 - Power Query : For data cleaning and transformation
