@@ -23,14 +23,14 @@ This project focuses on analyzing customer churn in the banking sector using an 
 ![Screenshot 2024-11-25 201359](https://github.com/user-attachments/assets/dd1090ed-ff68-4f5c-869e-99c281db2195)
 
 ## Insights 
-- The current Customer Churn Rate is 20.4%, exceeding the target of 15% by 5.4%, highlighting the need for  
+- The current Customer **Churn Rate** is **20.4%**, exceeding the target of 15% by 5.4%, highlighting the need for  
   focused retention strategies.
-- Customers aged 51-60 have the highest churn rate at 56.2% followed by those aged 41-50.
-- Customers with low credit scores and low account balance are significantly more likely to churn.
-- Germany has the highest churn rate at 32.4%, making up 40% of the total churned customers.
-- France and Spain have churn rate of 16.7% and 16.2% making up 39.8% and 20.3% of total churned customers.
-- Customers using Product 1 exhibit the highest churn rate compared to other products.
-- Female customers exhibit a higher churn rate compared to male customers.
+- Customers aged **51-60** have the highest churn rate at **56.2%** followed by those aged **41-50**.
+- Customers with **low credit scores** and **low account balance** are significantly more likely to churn.
+- **Germany** has the highest churn rate at **32.4%**, making up 40% of the total churned customers.
+- **France and Spain** have churn rate of **16.7%** and **16.2%** making up 39.8% and 20.3% of total churned customers.
+- Customers using **Product 1** exhibit the highest churn rate compared to other products.
+- **Female** customers exhibit a higher churn rate compared to male customers.
 
 ## Skills Learned 
 - Data Integration from various sources such as CSV file/Excel, MySQL database etc.
