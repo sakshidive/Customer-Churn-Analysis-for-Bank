@@ -21,6 +21,7 @@ This project focuses on analyzing customer churn in the banking sector using an 
 
 ## Dashboard Preview 
 ![Screenshot 2024-11-25 201359](https://github.com/user-attachments/assets/dd1090ed-ff68-4f5c-869e-99c281db2195)
+### Live Dashboard Link - [Customer Churn Analysis](https://app.powerbi.com/view?r=eyJrIjoiZTBkMDIxNmMtNGUwYi00ZDQ3LWJlOWUtMjk0YjhjNjczOTUxIiwidCI6Ijk0YjBjYWUyLTcyMzgtNDQ4OC05NTRmLWZjOTAyNWFmYzYxYSJ9)
 
 ## Insights 
 - The current Customer **Churn Rate** is **20.4%**, exceeding the target of 15% by 5.4%, highlighting the need for  
