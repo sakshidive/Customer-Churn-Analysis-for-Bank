@@ -38,7 +38,7 @@ This project focuses on analyzing customer churn in the banking sector using an 
 - Data visualization and storytelling through Power BI.
 - DAX for creating dynamic measures and calculated columns.
 - Data Analysis 
-- Data Transformation and Data Modeling.
+- Data Transformation
 - Insights generation for actionable recommendations.
 
 
